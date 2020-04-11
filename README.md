@@ -1,1 +1,1 @@
-# (Tutorials)[https://github.com/didnt1able/Tutorials/wiki]
+# [Tutorials](https://github.com/didnt1able/Tutorials/wiki)
